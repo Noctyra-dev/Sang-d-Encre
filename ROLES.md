@@ -1,6 +1,6 @@
 # 🎭 ROLES – Sang d’Encre
 
-Chaque joueur reçoit secrètement un rôle. Chaque rôle appartient à un **camp** (Village, Ombre, Neutre) et possède un **pouvoir nocturne** ou passif. Voici les rôles de base pour une partie de 6 à 18 joueurs.
+Chaque joueur reçoit secrètement un rôle. Chaque rôle appartient à un **camp** (Village, Ombre, Neutre) et possède un **pouvoir nocturne** ou passif. Voici les rôles de base pour une partie de 6 à 19 joueurs.
 
 ---
 
@@ -89,7 +89,7 @@ Chaque joueur reçoit secrètement un rôle. Chaque rôle appartient à un **cam
 * **Pouvoir** : Choisit comment un rôle sera affiché pendant une nuit (Ombre, Village, Neutre).
 * **MJ** : Donne une fausse information selon le scénario.
 
-### 🔸 Éclipse
+### 🔸 Inquisiteur
 
 * **Camp** : Ombre
 * **Pouvoir** : Une fois par partie, peut **plonger un joueur dans l’oubli**. Ce joueur **perd son pouvoir et le droit de parler** jusqu’à la fin de la partie.
@@ -97,7 +97,7 @@ Chaque joueur reçoit secrètement un rôle. Chaque rôle appartient à un **cam
 
 ---
 
-## 🃏 NEUTRES (5)
+## 🎿 NEUTRES (5)
 
 ### ⚪ Charlatan
 
@@ -150,8 +150,9 @@ Chaque joueur reçoit secrètement un rôle. Chaque rôle appartient à un **cam
 | 14      | 7       | 4     | 3       |
 | 15      | 8       | 4     | 3       |
 | 16      | 8       | 4     | 4       |
-| 17      | 9       | 4     | 4       |
-| 18      | 9       | 5     | 4       |
+| 17      | 8       | 4     | 5       |
+| 18      | 8       | 5     | 5       |
+| 19      | 8       | 6     | 5       |
 
 > Ces rôles permettent des combinaisons variées sans extensions. Le MJ peut adapter selon l’ambiance ou le niveau des joueurs.
 

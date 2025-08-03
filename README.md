@@ -1,10 +1,10 @@
 # Sang d’Encre
 
-**Sang d’Encre** est un jeu de rôles cachés inspiré du Loup-Garou, jouable sans matériel, en cercle, avec un Maître du Jeu (MJ). Ambiance gothique, soupçons nocturnes, voix feutrées et regards fuyants : une ombre s’est infiltrée dans le village…
+**Sang d’Encre** est un jeu de rôles cachés inspiré du Loup-Garou, jouable sans matériel, en cercle, avec un Maître du Jeu (MJ).
 
 ## 🎯 Objectif
 
-Incarnez un habitant du village de **Virelame**, déchirez le voile du mensonge, et survivez aux manipulations de l’Ombre… ou servez-la.
+Incarnez un habitant du village de **XXXXXXXX**, déchirez le voile du mensonge, et survivez aux manipulations de l’Ombre… ou servez-la.
 
 * Le **Village** gagne s’il élimine tous les agents de l’Ombre.
 * L’**Ombre** gagne si elle est en nombre majoritaire.

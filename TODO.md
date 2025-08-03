@@ -1,80 +1,48 @@
-# ✅ TODO - Projet Sang d’Encre
+# ✅ Liste des tâches – Projet *Sang d’Encre*
 
-Suivi des tâches pour le développement du jeu **Sang d’Encre**, en version papier et web.
+## 🎨 Univers & Thématique
 
----
+* [x] Choisir le nom du jeu : **Sang d’Encre**
+* [x] Définir le thème (gothique, XIXe siècle, sombre, secret...)
+* [ ] Écrire une description narrative de l’univers
+* [ ] Choisir la palette de couleurs, typos, logo visuel
 
-## 🎨 Univers & Ambiance
+## 📄 Documents de base
 
-- [ ] Écrire une description narrative de l’univers
-- [ ] Définir le style visuel global (logo, couleurs, typographie)
-- [ ] Choisir l’époque et le ton (gothique, XIXe, fantasmagorique ?)
-
----
+* [x] Créer `README.md`
+* [x] Créer `regles.md`
+* [ ] Créer `roles.md`
+* [ ] Créer `scenarios.md` (optionnel)
 
 ## 📜 Règles du jeu
 
-- [ ] Rédiger les règles de base
-- [ ] Créer une version simplifiée (débutants)
-- [ ] Ajouter des variantes (RP, corruption, mort silencieuse, etc.)
-- [ ] Préparer des exemples de partie
+* [x] Structurer les règles au format markdown
+* [x] Ajouter les variantes de jeu (vote secret, chrono…)
+* [ ] Relire et tester les règles avec des joueurs réels
+* [ ] Créer un guide rapide imprimable
 
----
+## 🧙 Rôles
 
-## 🧑‍🤝‍🧑 Rôles & Cartes
+* [ ] Lister les rôles principaux : Ombre, Villageois, Neutre
+* [ ] Définir pouvoirs, tours de jeu, interactions
+* [ ] Créer un tableau récapitulatif
 
-- [ ] Créer la liste des rôles de base
-- [ ] Équilibrer les pouvoirs et conditions de victoire
-- [ ] Définir l’alignement (Village / Ombre / Neutre)
-- [ ] Créer les cartes imprimables (.PDF)
-- [ ] Intégrer des icônes ou illustrations symboliques
+## 🌐 Développement Web (plus tard)
 
----
+* [ ] Définir l’architecture de l’appli
+* [ ] Choisir stack (Vue/React ? Backend ? Auth ? Socket ?)
+* [ ] Créer maquettes ou wireframes
+* [ ] Implémenter l’interface MJ et joueurs
 
-## 📄 Version Papier
+## 📜 Licence & Ouverture
 
-- [ ] Créer un livret de règles imprimable
-- [ ] Créer les cartes en version print (format standard)
-- [ ] Tester l’impression en noir & blanc
-- [ ] Ajouter des conseils de mise en scène
+* [x] Définir la licence : Creative Commons BY-NC-SA 4.0
+* [ ] Écrire un `CONTRIBUTING.md`
+* [ ] Ajouter une charte de contribution
+* [ ] Rendre le dépôt public
 
----
+## ✨ Divers
 
-## 💻 Version Web
-
-- [ ] Concevoir la maquette de l’interface
-- [ ] Affichage des rôles en ligne
-- [ ] Gestion d’une partie en ligne (interface MJ + joueurs)
-- [ ] Interface de vote + lettres anonymes
-- [ ] Compatibilité mobile
-
----
-
-## 🧱 Structure du dépôt
-
-- [x] `README.md`
-- [x] `LICENSE`
-- [x] `TODO.md`
-- [ ] `/papier` : règles + cartes PDF
-- [ ] `/web` : prototype HTML/JS
-- [ ] `/docs` : rôles, textes, idées
-
----
-
-## 📌 Organisation & GitHub
-
-- [ ] Mettre en place les *issues* pour suivre les tâches
-- [ ] Créer une branche `develop` pour les expérimentations
-- [ ] Rédiger un `CONTRIBUTING.md` (comment contribuer)
-- [ ] Ajouter des labels personnalisés (enhancement, role, bug...)
-
----
-
-## 💡 Idées futures (backlog)
-
-- [ ] Traduction en anglais ou autre langue
-- [ ] Extension : mode 2 MJ ou MJ invisible
-- [ ] Cartes “événements” ou “ambiance”
-- [ ] Générateur de rôles aléatoires
-- [ ] Mode solo / enquête narrative ?
-
+* [ ] Créer un logo ou typographie de titre
+* [ ] Créer une version imprimable des règles
+* [ ] Ajouter un changelog

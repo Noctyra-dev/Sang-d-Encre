@@ -21,7 +21,7 @@ Chaque joueur reçoit secrètement un rôle. Chaque rôle appartient à un **cam
 ### 🔹 Clairière
 
 * **Camp** : Village
-* **Pouvoir** : Si tu es éliminé (nuit ou jour), tu peux immédiatement tirer une dernière flèche : choisis un joueur qui meurt avec toi.
+* **Pouvoir** : Si tu es éliminé, de jour comme de nuit, tu peux immédiatement tirer une dernière flèche
 * **MJ** : Laisse le joueur choisir une cible à sa mort.
 
 ### 🔹 Liant
@@ -41,7 +41,7 @@ Chaque joueur reçoit secrètement un rôle. Chaque rôle appartient à un **cam
 * **Camp** : Village
 * **Pouvoir** : Chaque nuit, peut désigner un joueur. Le lendemain matin, une rumeur inquiétante circule à son sujet.
 * **Effet** : Le joueur visé commence la journée avec un **vote contre lui déjà compté**.
-* **MJ** : Annonce publiquement que « des lettres anonymes ont accusé un joueur », et applique un vote automatique contre la cible.
+* **MJ** : Annonce publiquement que « des lettres anonymes ont accusé un joueur », et applique un vote automatique dès le début de la journée contre la cible.
  
 ### 🔹 Juge
 
@@ -125,7 +125,7 @@ Chaque joueur reçoit secrètement un rôle. Chaque rôle appartient à un **cam
 * **Camp** : Neutre
 * **Objectif** : Gagner seul en survivant jusqu'à la fin.
 * **Pouvoir** : Se réveille chaque nuit avec les Ombres et vote avec eux. Une nuit sur deux (nuits paires), il **doit désigner une victime**, qui meurt en plus de la victime des Ombres.
-* **MJ** : À chaque nuit paire, demande-lui une cible.
+* **MJ** : À chaque nuit paire, demande-lui une cible indépendante. Il vote avec les Ombres, mais sa victime est une élimination supplémentaire.
 
 ---
 

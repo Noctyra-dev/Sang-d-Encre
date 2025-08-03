@@ -12,7 +12,7 @@
 * [x] LICENSE
 * [x] TODO.md
 * [ ] RULES.md – écrire les règles orales (nuit/jour)
-* [ ] ROLES.md – définir les rôles de base
+* [x] ROLES.md – définir les rôles de base
 
 ## 📜 Règles du jeu (RULES.md)
 
@@ -23,10 +23,10 @@
 
 ## 🎭 Rôles (ROLES.md)
 
-* [ ] Village : Veilleur, Scribe, etc.
-* [ ] Ombre : Corrompu, Saboteur, etc.
-* [ ] Neutres : Traître, Fol, etc.
-* [ ] Format standardisé (Nom / Camp / Pouvoir / Infos MJ)
+* [x] Village : Veilleur, Scribe, etc.
+* [x] Ombre : Corrompu, Saboteur, etc.
+* [x] Neutres : Traître, Fol, etc.
+* [x] Format standardisé (Nom / Camp / Pouvoir / Infos MJ)
 
 ## 🌍 Interface web (plus tard)
 
@@ -38,7 +38,7 @@
 
 * [ ] Intros thématiques pour le MJ
 * [ ] Idées de citations / ambiance audio
-* [ ] Nom du village (Virelame)
+* [ ] Nom du village
 
 ## 📦 Déploiement GitHub
 

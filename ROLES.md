@@ -4,7 +4,7 @@ Chaque joueur reçoit secrètement un rôle. Chaque rôle appartient à un **cam
 
 ---
 
-## 🏡 VILLAGE (6)
+## 🏡 VILLAGE (8)
 
 ### 🔹 Veilleur
 
@@ -42,6 +42,18 @@ Chaque joueur reçoit secrètement un rôle. Chaque rôle appartient à un **cam
 * **Pouvoir** : Chaque nuit, peut désigner un joueur. Le lendemain matin, une rumeur inquiétante circule à son sujet.
 * **Effet** : Le joueur visé commence la journée avec un **vote contre lui déjà compté**.
 * **MJ** : Annonce publiquement que « des lettres anonymes ont accusé un joueur », et applique un vote automatique contre la cible.
+ 
+### 🔹 Juge
+
+* **Camp** : Village
+* **Pouvoir** : Une fois dans la partie, durant la journée, peut faire un signe discret au MJ pour **déclencher un second vote** immédiatement après le premier. La nuit ne tombe pas encore.
+* **MJ** : Si le pouvoir est activé, annonce un second vote et gère une deuxième élimination.
+
+### 🔹 Bouffon
+
+* **Camp** : Village
+* **Pouvoir** : S’il est éliminé par vote, il **ne meurt pas**, mais perd définitivement son droit de vote. Si le village vote de nouveau contre lui plus tard, il meurt cette fois.
+* **MJ** : Annonce que le joueur perd son droit de vote. À la seconde élimination, il est tué normalement.
 
 ---
 
@@ -79,7 +91,7 @@ Chaque joueur reçoit secrètement un rôle. Chaque rôle appartient à un **cam
 
 ---
 
-## 🃏 NEUTRES (4)
+## 🃏 NEUTRES (5)
 
 ### ⚪ Charlatan
 
@@ -107,6 +119,13 @@ Chaque joueur reçoit secrètement un rôle. Chaque rôle appartient à un **cam
 * **Camp** : Neutre
 * **Pouvoir** : Si un joueur meurt, prend son rôle et son pouvoir (sauf si Neutre).
 * **MJ** : Active à la mort de la première victime.
+
+### ⚪ Assassin
+
+* **Camp** : Neutre
+* **Objectif** : Gagner seul en survivant jusqu'à la fin.
+* **Pouvoir** : Se réveille chaque nuit avec les Ombres et vote avec eux. Une nuit sur deux (nuits paires), il **doit désigner une victime**, qui meurt en plus de la victime des Ombres.
+* **MJ** : À chaque nuit paire, demande-lui une cible.
 
 ---
 

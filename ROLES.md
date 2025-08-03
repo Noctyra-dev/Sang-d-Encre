@@ -1,10 +1,10 @@
 # 🎭 ROLES – Sang d’Encre
 
-Chaque joueur reçoit secrètement un rôle. Chaque rôle appartient à un **camp** (Village, Ombre, Neutre) et possède un **pouvoir nocturne** ou passif.
+Chaque joueur reçoit secrètement un rôle. Chaque rôle appartient à un **camp** (Village, Ombre, Neutre) et possède un **pouvoir nocturne** ou passif. Voici les rôles de base pour une partie de 6 à 15 joueurs.
 
 ---
 
-## 🏡 VILLAGE
+## 🏡 VILLAGE (3 rôles de base)
 
 ### 🔹 Veilleur
 
@@ -18,15 +18,15 @@ Chaque joueur reçoit secrètement un rôle. Chaque rôle appartient à un **cam
 * **Pouvoir** : Peut découvrir l’allégeance (Village / Ombre / Neutre) d’un joueur.
 * **MJ** : Donne l’allégeance exacte.
 
-### 🔹 Mémoire
+### 🔹 Clairière
 
 * **Camp** : Village
-* **Pouvoir passif** : À sa mort, révèle un rôle aléatoire encore en vie (ou rien selon variantes).
-* **MJ** : Annonce une info à la mort du joueur.
+* **Pouvoir passif** : Si tu es tué la nuit, ton tueur est révélé au lever du jour.
+* **MJ** : Annonce publiquement l'identité d’un Corrompu si ce rôle est tué.
 
 ---
 
-## 🌑 OMBRE
+## 🌑 OMBRE (2 rôles de base)
 
 ### 🔸 Corrompu
 
@@ -40,29 +40,27 @@ Chaque joueur reçoit secrètement un rôle. Chaque rôle appartient à un **cam
 * **Pouvoir** : Empêche un rôle ciblé d’agir pendant la nuit.
 * **MJ** : Ignore l’effet du rôle visé.
 
-### 🔸 Porte-Masque
-
-* **Camp** : Ombre
-* **Pouvoir** : Peut apparaître comme Village s’il est sondé.
-* **MJ** : Donne "Village" au Scribe.
-
 ---
 
-## 🃏 NEUTRES
+## 🃏 NEUTRES (1 rôle de base)
 
 ### ⚪ Fol
 
 * **Camp** : Neutre
-* **Objectif** : Mourir exécuté par le village.
-* **Pouvoir** : Aucun.
-
-### ⚪ Traître
-
-* **Camp** : Neutre
-* **Objectif** : Rejoindre l’Ombre s’il survit jusqu’à la moitié de la partie.
-* **Pouvoir** : Bascule de camp au bon moment.
-* **MJ** : Le considère comme Neutre au départ.
+* **Objectif** : Être exécuté par le village.
+* **Pouvoir** : Aucun. Peut mentir, semer le doute.
+* **MJ** : Ne gagne que s’il meurt par vote public.
 
 ---
 
-> Ces rôles peuvent être modifiés, étendus ou équilibrés. Voir `TODO.md` pour les ajouts futurs.
+## 🔢 Configuration recommandée
+
+| Joueurs | Village | Ombre | Neutres |
+| ------- | ------- | ----- | ------- |
+| 6       | 3       | 2     | 1       |
+| 7–8     | 4       | 2     | 1       |
+| 9–10    | 5       | 3     | 1–2     |
+| 11–12   | 6       | 3     | 2–3     |
+| 13–15   | 7–8     | 4     | 3       |
+
+> Ce noyau de 6 rôles permet de jouer avec des parties équilibrées sans extensions. Voir `TODO.md` pour les ajouts futurs.

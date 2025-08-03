@@ -1,6 +1,6 @@
 # 📜 RÈGLES ORALES — SANG D’ENCRE
 
-Voici les règles de base pour jouer à **Sang d’Encre**, un jeu d’identité secrète inspiré des Loups-Garous, jouable en format oral (sans papier) avec un Maitre du Jeu.
+Voici les règles de base pour jouer à **Sang d’Encre**, un jeu d’identité inspiré des Loups-Garous, jouable en format oral avec un Maitre du Jeu.
 
 ---
 
@@ -53,7 +53,7 @@ Un joueur éliminé (jour ou nuit) :
 * Quitte la partie (sauf rôles spéciaux comme Bouffon, Clairière, Doublure...)
 * Peut parfois agir une dernière fois (selon son rôle).
 
-Les morts **ne parlent plus** (sauf effet exceptionnel).
+Les morts **ne parlent plus** et peuvent se retirer du cercle.
 
 ---
 
@@ -73,7 +73,7 @@ La partie s’arrête immédiatement si :
 
 * Distribue les rôles en secret.
 * Gère les phases de nuit et de jour.
-* Doit être impartial, clair, et discret.
+* Doit être impartialet clair.
 * N’intervient pas dans les discussions sauf pour rappeler les règles.
 
 ---

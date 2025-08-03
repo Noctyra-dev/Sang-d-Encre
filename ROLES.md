@@ -4,7 +4,7 @@ Chaque joueur reçoit secrètement un rôle. Chaque rôle appartient à un **cam
 
 ---
 
-## 🏡 VILLAGE
+## 🏡 VILLAGE (6)
 
 ### 🔹 Veilleur
 
@@ -16,7 +16,7 @@ Chaque joueur reçoit secrètement un rôle. Chaque rôle appartient à un **cam
 
 * **Camp** : Village
 * **Pouvoir** : Peut découvrir l’allégeance (Village / Ombre / Neutre) d’un joueur.
-* **MJ** : Donne l’allégeance d'un role peut etre influencer pas des rôles.
+* **MJ** : Donne l’allégeance d’un rôle. Peut être influencé par certains pouvoirs.
 
 ### 🔹 Clairière
 
@@ -45,7 +45,7 @@ Chaque joueur reçoit secrètement un rôle. Chaque rôle appartient à un **cam
 
 ---
 
-## 🌑 OMBRE
+## 🌑 OMBRE ( 5)
 
 ### 🔸 Corrompu
 
@@ -57,41 +57,41 @@ Chaque joueur reçoit secrètement un rôle. Chaque rôle appartient à un **cam
 
 * **Camp** : Ombre
 * **Pouvoir** : Empêche un rôle ciblé d’agir pendant la nuit.
-* **MJ** : Ignore l’effet du rôle visé s'il doit agir pendant la nuit.
+* **MJ** : Ignore l’effet du rôle visé s’il doit agir pendant la nuit.
 
 ### 🔸 Marionnettiste
 
 * **Camp** : Ombre
-* **Pouvoir** : Peut choisir un joueur qui votera obligatoirement pour une personne choisis lors de la nuit.
+* **Pouvoir** : Peut choisir un joueur qui votera obligatoirement pour une personne choisie lors de la nuit.
 * **MJ** : Note la contrainte de vote.
 
 ### 🔸 Masque
 
 * **Camp** : Ombre
-* **Pouvoir** : Il apparait comme Village pour les rôles a infos.
-* **MJ** : Donne fausse info selon scénario.
+* **Pouvoir** : Il apparaît comme Village pour les rôles à informations.
+* **MJ** : Donne une fausse information selon le scénario.
 
 ### 🔸 Faux-Prophète
 
 * **Camp** : Ombre
-* **Pouvoir** : Choisis comment un rôle sera affiché pendant une nuit (Ombre, Village, Neutre).
-* **MJ** : Donne fausse info selon scénario.
+* **Pouvoir** : Choisit comment un rôle sera affiché pendant une nuit (Ombre, Village, Neutre).
+* **MJ** : Donne une fausse information selon le scénario.
 
 ---
 
-## 🃏 NEUTRES
+## 🃏 NEUTRES (4)
 
 ### ⚪ Charlatan
 
 * **Camp** : Neutre
 * **Objectif** : Semer la confusion. Gagne s’il survit jusqu’à la fin.
-* **Pouvoir** : Peut échanger les rôles de deux autres joueurs une fois tout les deux tours.
+* **Pouvoir** : Peut échanger les rôles de deux autres joueurs une fois tous les deux tours.
 * **MJ** : Gère l’échange sans révéler les rôles à leurs nouveaux détenteurs.
 
 ### ⚪ Fol
 
 * **Camp** : Neutre
-* **Objectif** : Être exécuté par le village avant le troisieme tour.
+* **Objectif** : Être exécuté par le village avant le troisième tour.
 * **Pouvoir** : Aucun. Peut mentir, semer le doute.
 * **MJ** : Ne gagne que s’il meurt par vote public.
 
@@ -104,7 +104,7 @@ Chaque joueur reçoit secrètement un rôle. Chaque rôle appartient à un **cam
 
 ### ⚪ Doublure
 
-* **Camp** : Village
+* **Camp** : Neutre
 * **Pouvoir** : Si un joueur meurt, prend son rôle et son pouvoir (sauf si Neutre).
 * **MJ** : Active à la mort de la première victime.
 
@@ -112,15 +112,15 @@ Chaque joueur reçoit secrètement un rôle. Chaque rôle appartient à un **cam
 
 ## 🔢 Configuration recommandée
 
-| Joueurs | Village     | Ombre     | Neutres |
-| ------- | ----------- | --------- | ------- |
-| 6       | 3 (V, S, C) | 2 (C, Sa) | 1 (Fo)  |
-| 7–8     | 4           | 2–3       | 1       |
-| 9–10    | 5           | 3         | 1–2     |
-| 11–12   | 6           | 3–4       | 2–3     |
-| 13–14   | 7           | 4         | 3–4     |
-| 15      | 8           | 4         | 3       |
+| Joueurs | Village | Ombre | Neutres |
+| ------- | ------- | ----- | ------- |
+| 6       | 3       | 2     | 1       |
+| 7–8     | 4       | 2–3   | 1       |
+| 9–10    | 5       | 3     | 1–2     |
+| 11–12   | 6       | 3–4   | 2–3     |
+| 13–14   | 7       | 4     | 3–4     |
+| 15      | 8       | 4     | 3       |
 
-> Ces rôles permettent des combinaisons variées sans extensions. Le MJ peut adapter selon l'ambiance ou le niveau des joueurs.
+> Ces rôles permettent des combinaisons variées sans extensions. Le MJ peut adapter selon l’ambiance ou le niveau des joueurs.
 
 > Voir `TODO.md` pour suivre les ajouts et les suggestions de rôles spéciaux.

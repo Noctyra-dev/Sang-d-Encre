@@ -4,37 +4,31 @@ Chaque joueur reçoit secrètement un rôle. Chaque rôle appartient à un **cam
 
 ---
 
-## 🏡 VILLAGE (rôles principaux)
+## 🏡 VILLAGE
 
 ### 🔹 Veilleur
 
 * **Camp** : Village
-* **Pouvoir** : Protège un joueur contre la mort pendant la nuit.
+* **Pouvoir** : Protège un joueur contre la mort des Ombres pendant la nuit.
 * **MJ** : Si la cible est visée, elle survit.
 
 ### 🔹 Scribe
 
 * **Camp** : Village
 * **Pouvoir** : Peut découvrir l’allégeance (Village / Ombre / Neutre) d’un joueur.
-* **MJ** : Donne l’allégeance exacte.
+* **MJ** : Donne l’allégeance d'un role peut etre influencer pas des rôles.
 
 ### 🔹 Clairière
 
 * **Camp** : Village
-* **Pouvoir passif** : Si tu es tué la nuit, ton tueur est révélé au lever du jour.
-* **MJ** : Annonce publiquement l'identité d’un Corrompu si ce rôle est tué.
+* **Pouvoir** : Si tu es éliminé (nuit ou jour), tu peux immédiatement tirer une dernière flèche : choisis un joueur qui meurt avec toi.
+* **MJ** : Laisse le joueur choisir une cible à sa mort.
 
-### 🔹 Érudit
-
-* **Camp** : Village
-* **Pouvoir** : Peut choisir un joueur et découvrir s’il a agi la nuit précédente.
-* **MJ** : Répond par oui/non.
-
-### 🔹 Doublure
+### 🔹 Liant
 
 * **Camp** : Village
-* **Pouvoir** : Si un joueur meurt, prend son rôle et son pouvoir (sauf si Neutre).
-* **MJ** : Active à la mort de la première victime.
+* **Pouvoir** : La première nuit, désigne deux joueurs qui deviennent liés par un pacte secret. Si l’un meurt, l’autre meurt aussi de chagrin.
+* **MJ** : Informe discrètement les deux joueurs qu’ils sont liés. Si l’un des deux meurt, l’autre le suit immédiatement.
 
 ### 🔹 Silencieux
 
@@ -42,32 +36,39 @@ Chaque joueur reçoit secrètement un rôle. Chaque rôle appartient à un **cam
 * **Pouvoir** : Chaque nuit, peut désigner un joueur qui ne pourra pas parler le jour suivant.
 * **MJ** : Indique au joueur ciblé qu’il ne peut pas parler.
 
+### 🔹 Messager
+
+* **Camp** : Village
+* **Pouvoir** : Chaque nuit, peut désigner un joueur. Le lendemain matin, une rumeur inquiétante circule à son sujet.
+* **Effet** : Le joueur visé commence la journée avec un **vote contre lui déjà compté**.
+* **MJ** : Annonce publiquement que « des lettres anonymes ont accusé un joueur », et applique un vote automatique contre la cible.
+
 ---
 
-## 🌑 OMBRE (rôles principaux)
+## 🌑 OMBRE
 
 ### 🔸 Corrompu
 
 * **Camp** : Ombre
-* **Pouvoir** : Se réunit chaque nuit avec les autres Corrompus pour tuer un joueur.
+* **Pouvoir** : Se réunit chaque nuit avec les autres Ombres pour tuer un joueur.
 * **MJ** : Confirme la cible et applique le meurtre.
 
 ### 🔸 Saboteur
 
 * **Camp** : Ombre
 * **Pouvoir** : Empêche un rôle ciblé d’agir pendant la nuit.
-* **MJ** : Ignore l’effet du rôle visé.
+* **MJ** : Ignore l’effet du rôle visé s'il doit agir pendant la nuit.
 
 ### 🔸 Marionnettiste
 
 * **Camp** : Ombre
-* **Pouvoir** : Peut choisir un joueur qui votera obligatoirement comme lui le lendemain.
+* **Pouvoir** : Peut choisir un joueur qui votera obligatoirement pour une personne choisis lors de la nuit.
 * **MJ** : Note la contrainte de vote.
 
 ### 🔸 Masque
 
 * **Camp** : Ombre
-* **Pouvoir** : S’il est sondé, il apparaît comme Village ou Neutre (au choix du MJ).
+* **Pouvoir** : Il apparait comme Village pour les rôles a infos.
 * **MJ** : Donne fausse info selon scénario.
 
 ### 🔸 Faux-Prophète
@@ -78,7 +79,7 @@ Chaque joueur reçoit secrètement un rôle. Chaque rôle appartient à un **cam
 
 ---
 
-## 🃏 NEUTRES (rôles principaux)
+## 🃏 NEUTRES
 
 ### ⚪ Charlatan
 
@@ -90,7 +91,7 @@ Chaque joueur reçoit secrètement un rôle. Chaque rôle appartient à un **cam
 ### ⚪ Fol
 
 * **Camp** : Neutre
-* **Objectif** : Être exécuté par le village.
+* **Objectif** : Être exécuté par le village avant le troisieme tour.
 * **Pouvoir** : Aucun. Peut mentir, semer le doute.
 * **MJ** : Ne gagne que s’il meurt par vote public.
 
@@ -101,12 +102,11 @@ Chaque joueur reçoit secrètement un rôle. Chaque rôle appartient à un **cam
 * **Pouvoir** : Choisit un joueur au début de la partie. Il reste passif jusqu’à la mort de ce joueur.
 * **MJ** : Surveille le changement d’allégeance. Le Modèle devient Village au moment exact où sa cible meurt.
 
-### ⚪ Traître
+### ⚪ Doublure
 
-* **Camp** : Neutre
-* **Objectif** : Rejoindre l’Ombre s’il survit jusqu’à la moitié de la partie.
-* **Pouvoir** : Bascule de camp à mi-parcours.
-* **MJ** : Le considère comme Neutre au départ.
+* **Camp** : Village
+* **Pouvoir** : Si un joueur meurt, prend son rôle et son pouvoir (sauf si Neutre).
+* **MJ** : Active à la mort de la première victime.
 
 ---
 

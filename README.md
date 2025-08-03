@@ -85,7 +85,7 @@ Vous pouvez :
 
 ## ✒️ Autrice
 
-Je suis **Noctyra**, créatrice de **Sang d’Encre**.  
+Je suis **Noctyra**, alias Eléa, créatrice de **Sang d’Encre**.  
 J’ai imaginé ce jeu pour mêler ce que j’aime : les histoires troubles, les jeux de rôle, les silences qui pèsent plus que les mots, et les soupçons qui tissent des drames.
 
 🖋 *Sang d’Encre* est né d’un simple village dans la brume, **Encreval**, et s’est peu à peu étendu en un univers où chacun peut douter, manipuler, survivre… ou tomber dans l’oubli.

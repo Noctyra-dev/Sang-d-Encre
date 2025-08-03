@@ -5,6 +5,7 @@
 * [x] Nom du jeu : *Sang d’Encre*
 * [x] Style visuel : gothique, XIXe siècle, mystérieux
 * [x] Ton : sombre mais narratif
+* [ ] Logo : gothique, XIXe siècle, mystérieux
 
 ## 📘 Fichiers de base
 

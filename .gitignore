@@ -1,0 +1,29 @@
+# Node.js / Web
+node_modules/
+dist/
+build/
+.env
+.vscode/
+
+# macOS / Linux / Windows
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Design files
+*.psd
+*.xcf
+*.ai
+*.sketch
+
+# Temporary files
+*.bak
+*.tmp
+*.swp
+
+# Dependencies / Lockfiles
+package-lock.json
+yarn.lock
+pnpm-lock.yaml

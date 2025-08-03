@@ -73,12 +73,19 @@ Chaque joueur reçoit secrètement un rôle. Chaque rôle appartient à un **cam
 ### 🔸 Faux-Prophète
 
 * **Camp** : Ombre
-* **Pouvoir** : Peut envoyer un faux message du MJ pendant le jour (1 fois par partie).
-* **MJ** : Transmet le message choisi anonymement.
+* **Pouvoir** : Choisis comment un rôle sera affiché pendant une nuit (Ombre, Village, Neutre).
+* **MJ** : Donne fausse info selon scénario.
 
 ---
 
 ## 🃏 NEUTRES (rôles principaux)
+
+### ⚪ Charlatan
+
+* **Camp** : Neutre
+* **Objectif** : Semer la confusion. Gagne s’il survit jusqu’à la fin.
+* **Pouvoir** : Peut échanger les rôles de deux autres joueurs une fois tout les deux tours.
+* **MJ** : Gère l’échange sans révéler les rôles à leurs nouveaux détenteurs.
 
 ### ⚪ Fol
 
@@ -87,11 +94,12 @@ Chaque joueur reçoit secrètement un rôle. Chaque rôle appartient à un **cam
 * **Pouvoir** : Aucun. Peut mentir, semer le doute.
 * **MJ** : Ne gagne que s’il meurt par vote public.
 
-### ⚪ Spectre
+### ⚪ Modèle
 
-* **Camp** : Neutre
-* **Objectif** : Survivre jusqu'à la fin sans jamais être visé par un pouvoir.
-* **Pouvoir** : Aucun, mais s’il est ciblé (protection, meurtre, sonde...), il perd.
+* **Camp** : Neutre (potentiellement Village)
+* **Objectif** : Survit tant que son modèle est en vie. Si le modèle meurt, il rejoint définitivement le camp du Village.
+* **Pouvoir** : Choisit un joueur au début de la partie. Il reste passif jusqu’à la mort de ce joueur.
+* **MJ** : Surveille le changement d’allégeance. Le Modèle devient Village au moment exact où sa cible meurt.
 
 ### ⚪ Traître
 
@@ -99,13 +107,6 @@ Chaque joueur reçoit secrètement un rôle. Chaque rôle appartient à un **cam
 * **Objectif** : Rejoindre l’Ombre s’il survit jusqu’à la moitié de la partie.
 * **Pouvoir** : Bascule de camp à mi-parcours.
 * **MJ** : Le considère comme Neutre au départ.
-
-### ⚪ Alchimiste
-
-* **Camp** : Neutre
-* **Objectif** : Survivre jusqu'à la fin + être témoin de la mort de 3 rôles différents.
-* **Pouvoir** : Peut ressusciter un joueur (1 fois par partie).
-* **MJ** : L’active sur demande.
 
 ---
 

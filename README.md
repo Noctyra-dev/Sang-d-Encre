@@ -1,65 +1,52 @@
+# Sang d'Encre 🩸
 
-# Sang d’Encre 🩸
-
-> *Chaque nuit, une plume griffe le papier. Chaque matin, un corps froid et une lettre anonyme.  
-> Dans un village rongé par le doute, les mots tuent plus sûrement que les lames.*  
-
-**Sang d’Encre** est un jeu de rôle social librement inspiré du classique *Loup-Garou*, mêlant bluff, déduction, lettres secrètes et décisions fatales.  
-Pensé pour être joué en **version papier** ou en **version web**, il propose un univers narratif sombre et original, où les mots sont aussi dangereux que les crocs.
+**Sang d’Encre** est un jeu narratif et social inspiré du célèbre Loups-Garous de Thiercelieux, avec une atmosphère plus sombre, poétique et mystérieuse. Il est conçu pour une version **papier** comme **en ligne**, en open source sous licence **Creative Commons BY-NC-SA 4.0**.
 
 ---
 
-## 🎯 Objectifs du projet
+## ✨ Présentation
 
-- Créer une version **imprimable** du jeu (règles + cartes).
-- Développer une **interface web** simple et immersive.
-- Offrir une galerie de **rôles narratifs originaux**.
-- Proposer un contenu **open source sous licence CC BY-SA 4.0**.
-- Permettre la **personnalisation totale** du jeu.
+Un village isolé. Des secrets inavouables. Des créatures tapies dans l’ombre.
+Chaque nuit, des morts inexplicables. Chaque jour, des accusations.
 
----
-
-## 🕯️ Thème & ambiance
-
-- Ambiance mystérieuse, théâtrale, post-médiévale ou XIXe siècle.
-- Village isolé rongé par la peur, les soupçons et les lettres anonymes.
-- Rôles comme l’Ombre, le Lecteur, l’Herboriste, le Juge ou le Corbeau.
-- Moins “loup-garou bestial”, plus **psychologique et narratif**.
+Dans *Sang d’Encre*, vous incarnez des rôles uniques : humains aux pouvoirs étranges, créatures surnaturelles, entités troubles, tous liés par un fil narratif.
 
 ---
 
-## 📂 Structure du projet
+## 🎯 Objectif
 
-```
-
-sang-d-encre/
-├── papier/        # Cartes et règles imprimables
-├── web/           # Application web jouable
-├── docs/          # Idées, rôles, concepts
-├── LICENSE        # Licence libre (CC BY-SA 4.0)
-└── README.md      # Ce fichier
-
-```
+Découvrir qui sont les êtres responsables des morts nocturnes… ou survivre sans être démasqué si vous êtes de l'autre côté.
 
 ---
 
-## 🔓 Licence
+## 🧩 Caractéristiques
 
-Ce projet est publié sous la licence **Creative Commons Attribution - Partage dans les mêmes conditions 4.0 International** (CC BY-SA 4.0).
-
-Vous êtes libres de :
-- Copier, modifier, redistribuer
-- Créer vos propres variantes
-
-À condition de :
-- Citer l’auteur original
-- Partager vos versions sous la même licence
-
-👉 [Voir la licence complète](https://creativecommons.org/licenses/by-sa/4.0/)
+- 🌒 Thème sombre & narratif
+- 🕯️ Version papier à imprimer + version web
+- 🎭 Rôles originaux avec mécaniques asymétriques
+- 🧾 Règles flexibles (classique ou roleplay étendu)
+- 💀 Pensé pour 6 à 18 joueurs
+- 👐 Open-source sous Creative Commons (BY-NC-SA 4.0)
 
 ---
 
-## ✍️ En développement…
+## 📦 Installation (version web)
 
-Le projet est en cours de création. Rejoignez-le, contribuez, testez, ou inspirez-vous !  
-Toute aide est la bienvenue 🕵️‍♀️
+> ⚠️ En cours de développement
+
+```bash
+git clone https://github.com/Noctyra-dev/Sand-d-Endre.git
+cd Sang-d-Encre
+````
+
+---
+
+## 🧑‍🎨 Crédits
+
+Créé par Noctyra.
+
+---
+
+## 📜 Licence
+
+Ce projet est distribué sous la licence **Creative Commons Attribution - NonCommercial - ShareAlike 4.0 International**. Voir le fichier [`LICENSE`](./LICENSE).

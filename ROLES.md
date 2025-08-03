@@ -4,7 +4,7 @@ Chaque joueur reçoit secrètement un rôle. Chaque rôle appartient à un **cam
 
 ---
 
-## 🏡 VILLAGE (8)
+## VILLAGE (8)
 
 ### 🔹 Veilleur
 
@@ -57,7 +57,7 @@ Chaque joueur reçoit secrètement un rôle. Chaque rôle appartient à un **cam
 
 ---
 
-## 🌑 OMBRE (6)
+## OMBRE (6)
 
 ### 🔸 Corrompu
 
@@ -97,7 +97,7 @@ Chaque joueur reçoit secrètement un rôle. Chaque rôle appartient à un **cam
 
 ---
 
-## 🎿 NEUTRES (5)
+## NEUTRES (5)
 
 ### ⚪ Charlatan
 
@@ -155,5 +155,3 @@ Chaque joueur reçoit secrètement un rôle. Chaque rôle appartient à un **cam
 | 19      | 8       | 6     | 5       |
 
 > Ces rôles permettent des combinaisons variées sans extensions. Le MJ peut adapter selon l’ambiance ou le niveau des joueurs.
-
-> Voir `TODO.md` pour suivre les ajouts et les suggestions de rôles spéciaux.

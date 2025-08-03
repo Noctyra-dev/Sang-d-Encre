@@ -5,15 +5,15 @@
 * [x] Nom du jeu : *Sang d’Encre*
 * [x] Style visuel : gothique, XIXe siècle, mystérieux
 * [x] Ton : sombre mais narratif
-* [ ] Logo : gothique, XIXe siècle, mystérieux
+* [x] Logo : gothique, XIXe siècle, mystérieux
 
 ## 📘 Fichiers de base
 
 * [x] README.md
 * [x] LICENSE
-* [x] TODO.md
 * [ ] RULES.md – écrire les règles orales (nuit/jour)
-* [x] ROLES.md – définir les rôles de base
+* [ ] ROLES.md – définir les rôles de base
+* [ ] CARTE.pdf - créer les cartes de jeu
 
 ## 📜 Règles du jeu (RULES.md)
 

@@ -15,11 +15,6 @@
 
 **Sang d’Encre** est un jeu d’ambiance et de déduction se déroulant dans le village brumeux d’**Encreval**, théâtre d’une lutte impitoyable entre les habitants, les **Ombres**, et d’étranges personnages **neutres** aux desseins troubles.
 
-Chaque joueur incarne secrètement un rôle unique appartenant à l’un des trois **camps** :  
-**🏡 Village**, **🌑 Ombre**, ou **🎿 Neutre**.
-
-Parviendrez-vous à percer les mensonges, manipuler les foules, ou survivre jusqu’à la fin…?
-
 ---
 
 ## 📜 Fonctionnement
@@ -31,6 +26,15 @@ Parviendrez-vous à percer les mensonges, manipuler les foules, ou survivre jusq
 Le jeu peut être joué **à l’oral**, avec ou sans application d’aide.
 
 ---
+
+## 🧩 Camps du jeu
+
+| <img src="assets/village.png" width="64"/> | <img src="assets/ombres.png" width="64"/> | <img src="assets/egares.png" width="64"/> |
+|:--:|:--:|:--:|
+| **Le Village** | **Les Ombres** | **Les Égarés** |
+| Coopèrent pour survivre et voter les menaces | Tuent la nuit, mentent le jour | Ont des objectifs personnels |
+
+--- 
 
 ## 🧩 Contenu
 

@@ -29,6 +29,11 @@
 * [x] Neutres : Traître, Fol, etc.
 * [x] Format standardisé (Nom / Camp / Pouvoir / Infos MJ)
 
+## 📁 Documentation (docs/)
+
+* [ ] Créer les fichiers complet.
+* [ ] Activer GitHub Pages sur le dossier `/docs`.
+
 ## 🌍 Interface web (plus tard)
 
 * [ ] Définir structure interface MJ (appel rôles, actions)

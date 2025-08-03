@@ -54,7 +54,7 @@ Suivi des tâches pour le développement du jeu **Sang d’Encre**, en version p
 
 - [x] `README.md`
 - [x] `LICENSE`
-- [ ] `TODO.md`
+- [x] `TODO.md`
 - [ ] `/papier` : règles + cartes PDF
 - [ ] `/web` : prototype HTML/JS
 - [ ] `/docs` : rôles, textes, idées

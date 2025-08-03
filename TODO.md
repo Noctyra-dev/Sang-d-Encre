@@ -1,48 +1,47 @@
-# ✅ Liste des tâches – Projet *Sang d’Encre*
+# ✅ TODO – Sang d’Encre
 
-## 🎨 Univers & Thématique
+## 🎨 Univers & ambiance
 
-* [x] Choisir le nom du jeu : **Sang d’Encre**
-* [x] Définir le thème (gothique, XIXe siècle, sombre, secret...)
-* [ ] Écrire une description narrative de l’univers
-* [ ] Choisir la palette de couleurs, typos, logo visuel
+* [x] Nom du jeu : *Sang d’Encre*
+* [x] Style visuel : gothique, XIXe siècle, mystérieux
+* [x] Ton : sombre mais narratif
 
-## 📄 Documents de base
+## 📘 Fichiers de base
 
-* [x] Créer `README.md`
-* [x] Créer `regles.md`
-* [ ] Créer `roles.md`
-* [ ] Créer `scenarios.md` (optionnel)
+* [x] README.md
+* [x] LICENSE
+* [x] TODO.md
+* [ ] RULES.md – écrire les règles orales (nuit/jour)
+* [ ] ROLES.md – définir les rôles de base
 
-## 📜 Règles du jeu
+## 📜 Règles du jeu (RULES.md)
 
-* [x] Structurer les règles au format markdown
-* [x] Ajouter les variantes de jeu (vote secret, chrono…)
-* [ ] Relire et tester les règles avec des joueurs réels
-* [ ] Créer un guide rapide imprimable
+* [ ] Structure de base (nuit, jour, votes, élimination)
+* [ ] Déroulement d’une nuit (rôles appelés, actions)
+* [ ] Déroulement d’un jour (discussions, vote, mort)
+* [ ] Conditions de victoire (Village, Ombre, Neutres)
 
-## 🧙 Rôles
+## 🎭 Rôles (ROLES.md)
 
-* [ ] Lister les rôles principaux : Ombre, Villageois, Neutre
-* [ ] Définir pouvoirs, tours de jeu, interactions
-* [ ] Créer un tableau récapitulatif
+* [ ] Village : Veilleur, Scribe, etc.
+* [ ] Ombre : Corrompu, Saboteur, etc.
+* [ ] Neutres : Traître, Fol, etc.
+* [ ] Format standardisé (Nom / Camp / Pouvoir / Infos MJ)
 
-## 🌐 Développement Web (plus tard)
+## 🌍 Interface web (plus tard)
 
-* [ ] Définir l’architecture de l’appli
-* [ ] Choisir stack (Vue/React ? Backend ? Auth ? Socket ?)
-* [ ] Créer maquettes ou wireframes
-* [ ] Implémenter l’interface MJ et joueurs
+* [ ] Définir structure interface MJ (appel rôles, actions)
+* [ ] Interface joueurs (affichage de leur rôle, votes)
+* [ ] Simuler une partie sans MJ (optionnel)
 
-## 📜 Licence & Ouverture
+## ✍️ Narration (bonus)
 
-* [x] Définir la licence : Creative Commons BY-NC-SA 4.0
-* [ ] Écrire un `CONTRIBUTING.md`
-* [ ] Ajouter une charte de contribution
-* [ ] Rendre le dépôt public
+* [ ] Intros thématiques pour le MJ
+* [ ] Idées de citations / ambiance audio
+* [ ] Nom du village (Virelame)
 
-## ✨ Divers
+## 📦 Déploiement GitHub
 
-* [ ] Créer un logo ou typographie de titre
-* [ ] Créer une version imprimable des règles
-* [ ] Ajouter un changelog
+* [x] Créer dépôt GitHub
+* [x] Ajouter licence libre (CC-BY-NC-SA 4.0)
+* [x] .gitignore configuré (basique)

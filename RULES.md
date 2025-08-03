@@ -1,71 +1,91 @@
-# 📜 RÈGLES – Sang d’Encre
+# 📜 RÈGLES ORALES — SANG D’ENCRE
 
-## 🎭 Principe
-
-Chaque joueur incarne un personnage d’un village mystérieux : certains sont loyaux au **Village**, d’autres sont corrompus par **l’Ombre**, et quelques-uns poursuivent un objectif **neutre**.
-
-Le jeu alterne des phases de **nuit**, où les rôles agissent secrètement, et des phases de **jour**, où les joueurs débattent et votent pour éliminer un suspect.
-
-Le jeu se termine lorsque :
-
-* Tous les membres de l’Ombre sont éliminés → **Victoire du Village**
-* L’Ombre est en nombre majoritaire → **Victoire de l’Ombre**
-* Un objectif spécial est rempli → **Victoire Neutre**
+Voici les règles de base pour jouer à **Sang d’Encre**, un jeu d’identité secrète inspiré des Loups-Garous, jouable en format oral (sans papier) avec un Maitre du Jeu.
 
 ---
 
-## 🌙 La Nuit
+## 🎲 Objectif du jeu
 
-* Tous les joueurs ferment les yeux.
-* Le Maître du Jeu appelle les rôles **un par un**, selon un ordre défini.
-* Chaque rôle exécute son **pouvoir** en silence (geste, désignation, etc.).
-* Le MJ note les effets et prépare les conséquences pour le jour.
+Chaque joueur incarne un rôle secret appartenant à l’un des trois camps :
 
-### Exemple d’ordre (de base)
-
-1. **Corrompus** (tue un joueur)
-2. **Veilleur** (protège un joueur)
-3. **Scribe** (sonde un rôle)
-4. **Saboteur** (bloque une action)
+* **Village** : traquer et éliminer les Ombres.
+* **Ombres** : éliminer les Villageois jusqu’à être en majorité.
+* **Neutres** : remplir leur condition de victoire propre.
 
 ---
 
-## ☀️ Le Jour
+## 🌙 PHASE DE NUIT
 
-* Le MJ annonce les conséquences de la nuit :
+La nuit, les joueurs ferment les yeux. Le Maitre du Jeu (MJ) réveille certains rôles dans un ordre précis pour qu’ils utilisent leurs pouvoirs.
 
-  * Qui est mort (ou s’il n’y a eu aucun mort)
-  * Effets publics visibles
-* Les joueurs débattent librement (5–10 min).
-* Tous votent pour exécuter **un joueur**.
+### Ordre typique :
 
-  * Égalité : personne n’est tué (ou règle spéciale)
-  * Le joueur tué révèle son rôle (ou reste caché selon variantes)
+1. **Liant** (nuit 1 uniquement)
+2. **Assassin** (nuit paire uniquement)
+3. **Corrompus (Ombres)**
+4. **Saboteur / Marionnettiste / Faux-Prophète / Inquisiteur**
+5. **Veilleur / Silencieux / Messager**
+6. **Scribe / Clairière / Charlatan / Autres neutres**
+7. **Doublure** (si activée)
 
----
-
-## 🎯 Objectifs
-
-| Camp    | Condition de victoire                              |
-| ------- | -------------------------------------------------- |
-| Village | Tous les agents de l’Ombre sont éliminés           |
-| Ombre   | L’Ombre est en nombre égal ou supérieur au Village |
-| Neutres | Objectif personnel (ex : survivre, faire tuer X)   |
+> Le MJ veille à respecter le silence total et à réveiller les joueurs de façon discrète.
 
 ---
 
-## 🔄 Fin de partie
+## 🌞 PHASE DE JOUR
 
-Le MJ vérifie les conditions de victoire après chaque exécution ou mort nocturne.
+Le matin, tout le monde ouvre les yeux. Le MJ annonce les événements de la nuit : morts, effets, rumeurs, silence, etc.
 
-Le jeu peut se terminer **à tout moment** si une condition est remplie.
+Les joueurs discutent librement pour découvrir qui sont les Ombres. Puis vient le **vote du village** : chaque joueur désigne une personne à éliminer.
+
+### Le vote :
+
+* Chacun pointe du doigt ou nomme sa cible.
+* Le joueur avec le plus de votes est éliminé.
+* En cas d’égalité, pas d’élimination sauf pouvoir spécial (Juge).
 
 ---
 
-## 🔐 Variantes (optionnelles)
+## ⚰️ MORT D’UN JOUEUR
 
-* Révélation ou non des rôles à la mort
-* Actions de nuit simultanées (via appli)
-* Vote public ou secret
+Un joueur éliminé (jour ou nuit) :
 
-> Voir `ROLES.md` pour les détails de chaque rôle.
+* Quitte la partie (sauf rôles spéciaux comme Bouffon, Clairière, Doublure...)
+* Peut parfois agir une dernière fois (selon son rôle).
+
+Les morts **ne parlent plus** (sauf effet exceptionnel).
+
+---
+
+## 🎯 FIN DE PARTIE
+
+La partie s’arrête immédiatement si :
+
+* **Toutes les Ombres sont mortes** ➞ Victoire du Village.
+* **Les Ombres sont en majorité ou égalité** ➞ Victoire des Ombres.
+* **Un Neutre réalise son objectif** (peut arriver en parallèle).
+
+> Le MJ annonce les rôles restants et les conditions réalisées.
+
+---
+
+## 🎭 RÔLE DU MAITRE DU JEU
+
+* Distribue les rôles en secret.
+* Gère les phases de nuit et de jour.
+* Doit être impartial, clair, et discret.
+* N’intervient pas dans les discussions sauf pour rappeler les règles.
+
+---
+
+## 🛠 CONSEILS MJ
+
+* Toujours rappeler le silence durant la nuit.
+* Garder une liste des rôles et de leurs activations.
+* Adapter le rythme à la tension du jeu.
+* Proposer une partie d’essai pour les nouveaux joueurs.
+
+---
+
+> Voir `ROLES.md` pour le détail des pouvoirs.
+> Voir `TODO.md` pour les variantes, extensions ou versions à tester.

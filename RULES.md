@@ -21,46 +21,46 @@ Une partie se joue en une alternance de **nuits** et de **journées**, rythmée 
 
 ---
 
-## 🌒 Phase de Nuit
+## 🌙 PHASE DE NUIT
 
-L’ordre d’appel des rôles est toujours le même. Le Maître du Jeu (MJ) guide chaque phase.
+La nuit, les joueurs ferment les yeux. Le Maitre du Jeu (MJ) réveille certains rôles dans un ordre précis pour qu’ils utilisent leurs pouvoirs.
 
-1. **Effets persistants / passifs**
-   - Exemple : Malédictions, pièges actifs, rôles marqués, etc.
+### Ordre typique :
 
-2. **Clairvoyants et rôles d’information**
-   - Exemple : L’Archiviste désigne un joueur à sonder.
+1. **Liant** (nuit 1 uniquement)
+2. **Assassin** (nuit paire uniquement)
+3. **Corrompus (Ombres)**
+4. **Saboteur / Marionnettiste / Faux-Prophète / Inquisiteur**
+5. **Veilleur / Silencieux / Messager**
+6. **Scribe / Clairière / Charlatan / Autres neutres**
+7. **Doublure** (si activée)
 
-3. **Les Ombres (Loup-Garou)**
-   - Tous les membres du camp des Ombres se réveillent et désignent une victime.
-
-4. **Actions spéciales**
-   - Exemple : Le Miroir copie une capacité, l’Assassin choisit une cible, etc.
-
-5. **Protection, blocage, copie, renvoi**
-   - Exemple : Le Gardien protège, le Scribe intercepte.
-
-6. **Résolutions des morts**
-   - Les effets de mort s’appliquent : pouvoirs posthumes, vengeance, révélation, etc.
+> Le MJ veille à respecter le silence total et à réveiller les joueurs de façon discrète.
 
 ---
 
-## ☀️ Phase de Jour
+## 🌞 PHASE DE JOUR
 
-1. **Réveil & Annonce**
-   - Le MJ annonce les morts éventuelles et révèle les rôles si applicable.
-   - Les joueurs discutent librement pour débattre des soupçons.
+Le matin, tout le monde ouvre les yeux. Le MJ annonce les événements de la nuit : morts, effets, etc.
 
-2. **Vote**
-   - Chaque joueur vote pour éliminer un suspect.
-   - En cas d’égalité : aucune élimination, sauf effet de rôle contraire.
+Les joueurs discutent librement pour découvrir qui sont les Ombres. Puis vient le **vote du village** : chaque joueur désigne une personne à éliminer.
 
-3. **Effets de vote**
-   - Rôle Idiot : immunité au 1er vote.
-   - Juge : peut forcer un second vote dans la partie.
+### Le vote :
 
-4. **Fin de la journée**
-   - Passage à la nuit suivante.
+* Chacun pointe du doigt ou nomme sa cible.
+* Le joueur avec le plus de votes est éliminé.
+* En cas d’égalité, pas d’élimination sauf pouvoir spécial (Juge).
+
+---
+
+## ⚰️ MORT D’UN JOUEUR
+
+Un joueur éliminé (jour ou nuit) :
+
+* Quitte la partie.
+* Peut parfois agir une dernière fois (selon son rôle).
+
+Les morts **ne parlent plus** .
 
 ---
 
@@ -76,8 +76,7 @@ L’ordre d’appel des rôles est toujours le même. Le Maître du Jeu (MJ) gui
 
 - Ne jamais révéler de rôle sauf si un pouvoir ou effet le demande.
 - Toujours suivre l’ordre de nuit pour éviter les conflits.
-- Garder une trace des votes et des morts pour faciliter les litiges.
-- Équilibrer les parties en fonction des configurations recommandées (`ROLES.md`).
+- Équilibrer les parties en fonction des configurations recommandées (`ROLES.md`) et niveau des joueurs.
 
 ---
 

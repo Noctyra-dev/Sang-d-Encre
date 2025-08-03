@@ -82,7 +82,7 @@ Tout le monde peut contribuer :
 
 ---
 
-## ✒️ Auteur
+## ✒️ Autrice
 
 Créé par **Noctyra**, avec passion, mystère… et beaucoup d’encre.
 

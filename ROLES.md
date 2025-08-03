@@ -1,6 +1,6 @@
 # 🎭 ROLES – Sang d’Encre
 
-Chaque joueur reçoit secrètement un rôle. Chaque rôle appartient à un **camp** (Village, Ombre, Neutre) et possède un **pouvoir nocturne** ou passif. Voici les rôles de base pour une partie de 6 à 15 joueurs.
+Chaque joueur reçoit secrètement un rôle. Chaque rôle appartient à un **camp** (Village, Ombre, Neutre) et possède un **pouvoir nocturne** ou passif. Voici les rôles de base pour une partie de 6 à 18 joueurs.
 
 ---
 
@@ -42,7 +42,7 @@ Chaque joueur reçoit secrètement un rôle. Chaque rôle appartient à un **cam
 * **Pouvoir** : Chaque nuit, peut désigner un joueur. Le lendemain matin, une rumeur inquiétante circule à son sujet.
 * **Effet** : Le joueur visé commence la journée avec un **vote contre lui déjà compté**.
 * **MJ** : Annonce publiquement que « des lettres anonymes ont accusé un joueur », et applique un vote automatique dès le début de la journée contre la cible.
- 
+
 ### 🔹 Juge
 
 * **Camp** : Village
@@ -57,7 +57,7 @@ Chaque joueur reçoit secrètement un rôle. Chaque rôle appartient à un **cam
 
 ---
 
-## 🌑 OMBRE ( 5)
+## 🌑 OMBRE (6)
 
 ### 🔸 Corrompu
 
@@ -88,6 +88,12 @@ Chaque joueur reçoit secrètement un rôle. Chaque rôle appartient à un **cam
 * **Camp** : Ombre
 * **Pouvoir** : Choisit comment un rôle sera affiché pendant une nuit (Ombre, Village, Neutre).
 * **MJ** : Donne une fausse information selon le scénario.
+
+### 🔸 Éclipse
+
+* **Camp** : Ombre
+* **Pouvoir** : Une fois par partie, peut **plonger un joueur dans l’oubli**. Ce joueur **perd son pouvoir et le droit de parler** jusqu’à la fin de la partie.
+* **MJ** : À l’activation, informe discrètement le joueur ciblé qu’il est plongé dans l’oubli. Il garde son camp, mais **ne peut plus utiliser son pouvoir ni s’exprimer**.
 
 ---
 
@@ -134,11 +140,18 @@ Chaque joueur reçoit secrètement un rôle. Chaque rôle appartient à un **cam
 | Joueurs | Village | Ombre | Neutres |
 | ------- | ------- | ----- | ------- |
 | 6       | 3       | 2     | 1       |
-| 7–8     | 4       | 2–3   | 1       |
-| 9–10    | 5       | 3     | 1–2     |
-| 11–12   | 6       | 3–4   | 2–3     |
-| 13–14   | 7       | 4     | 3–4     |
+| 7       | 4       | 2     | 1       |
+| 8       | 4       | 3     | 1       |
+| 9       | 5       | 3     | 1       |
+| 10      | 5       | 3     | 2       |
+| 11      | 6       | 3     | 2       |
+| 12      | 6       | 4     | 2       |
+| 13      | 7       | 4     | 2       |
+| 14      | 7       | 4     | 3       |
 | 15      | 8       | 4     | 3       |
+| 16      | 8       | 4     | 4       |
+| 17      | 9       | 4     | 4       |
+| 18      | 9       | 5     | 4       |
 
 > Ces rôles permettent des combinaisons variées sans extensions. Le MJ peut adapter selon l’ambiance ou le niveau des joueurs.
 

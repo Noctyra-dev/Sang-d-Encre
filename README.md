@@ -1,52 +1,37 @@
-# Sang d'Encre 🩸
+# Sang d’Encre
 
-**Sang d’Encre** est un jeu narratif et social inspiré du célèbre Loups-Garous de Thiercelieux, avec une atmosphère plus sombre, poétique et mystérieuse. Il est conçu pour une version **papier** comme **en ligne**, en open source sous licence **Creative Commons BY-NC-SA 4.0**.
-
----
-
-## ✨ Présentation
-
-Un village isolé. Des secrets inavouables. Des créatures tapies dans l’ombre.
-Chaque nuit, des morts inexplicables. Chaque jour, des accusations.
-
-Dans *Sang d’Encre*, vous incarnez des rôles uniques : humains aux pouvoirs étranges, créatures surnaturelles, entités troubles, tous liés par un fil narratif.
-
----
+**Sang d’Encre** est un jeu de rôles cachés inspiré du Loup-Garou, jouable sans matériel, en cercle, avec un Maître du Jeu (MJ). Ambiance gothique, soupçons nocturnes, voix feutrées et regards fuyants : une ombre s’est infiltrée dans le village…
 
 ## 🎯 Objectif
 
-Découvrir qui sont les êtres responsables des morts nocturnes… ou survivre sans être démasqué si vous êtes de l'autre côté.
+Incarnez un habitant du village de **Virelame**, déchirez le voile du mensonge, et survivez aux manipulations de l’Ombre… ou servez-la.
 
----
+* Le **Village** gagne s’il élimine tous les agents de l’Ombre.
+* L’**Ombre** gagne si elle est en nombre majoritaire.
+* Les **Neutres** ont chacun un objectif personnel.
 
-## 🧩 Caractéristiques
+## 👥 Nombre de joueurs
 
-- 🌒 Thème sombre & narratif
-- 🕯️ Version papier à imprimer + version web
-- 🎭 Rôles originaux avec mécaniques asymétriques
-- 🧾 Règles flexibles (classique ou roleplay étendu)
-- 💀 Pensé pour 6 à 18 joueurs
-- 👐 Open-source sous Creative Commons (BY-NC-SA 4.0)
+* Minimum : 6
+* Recommandé : 8–15
+* MJ nécessaire
 
----
+## 📦 Contenu du projet
 
-## 📦 Installation (version web)
+* `README.md` – Présentation générale
+* `RULES.md` – Règles du jeu
+* `ROLES.md` – Liste des rôles jouables
+* `TODO.md` – Liste des tâches en cours
 
-> ⚠️ En cours de développement
+## 🛠️ Version
 
-```bash
-git clone https://github.com/Noctyra-dev/Sand-d-Endre.git
-cd Sang-d-Encre
-````
+Début de développement – pré-alpha
 
----
+## 📄 Licence
 
-## 🧑‍🎨 Crédits
+Ce projet est sous licence **Creative Commons BY-NC-SA 4.0**. Voir `LICENSE` pour plus d'infos.
 
-Créé par Noctyra.
+## 🌐 Versions prévues
 
----
-
-## 📜 Licence
-
-Ce projet est distribué sous la licence **Creative Commons Attribution - NonCommercial - ShareAlike 4.0 International**. Voir le fichier [`LICENSE`](./LICENSE).
+* Version présentielle sans matériel (MJ + voix)
+* Version web (interface MJ + gestion rôles/actions)

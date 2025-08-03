@@ -22,9 +22,8 @@ Une lutte s’y joue entre les **Villageois**, les **Ombres**, et de mystérieux
 
 ## 📜 Fonctionnement
 
-- 🌙 **Nuit** : les rôles agissent dans l’ombre (assassinats, enquêtes…)
-- ☀️ **Jour** : discussions, accusations, vote d’un suspect
-- 🎭 Des **pouvoirs spéciaux** modifient chaque tour de manière subtile
+- **Nuit** : les rôles agissent dans l’ombre (assassinats, enquêtes…)
+- **Jour** : discussions, accusations, vote d’un suspect
 
 ---
 

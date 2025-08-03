@@ -29,7 +29,7 @@ Le jeu peut être joué **à l’oral**, avec ou sans application d’aide.
 
 ## 🧩 Camps du jeu
 
-| <img src="assets/village.png" width="64"/> | <img src="assets/ombres.png" width="64"/> | <img src="assets/egares.png" width="64"/> |
+| <img src="assets/village.png"/> | <img src="assets/ombres.png"/> | <img src="assets/egares.png"/> |
 |:--:|:--:|:--:|
 | **Le Village** | **Les Ombres** | **Les Égarés** |
 | Coopèrent pour survivre et voter les menaces | Tuent la nuit, mentent le jour | Ont des objectifs personnels |

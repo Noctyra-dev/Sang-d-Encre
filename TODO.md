@@ -44,7 +44,7 @@
 
 * [ ] Intros thématiques pour le MJ
 * [ ] Idées de citations / ambiance audio
-* [ ] Nom du village
+* [x] Nom du village
 
 ## 📦 Déploiement GitHub
 

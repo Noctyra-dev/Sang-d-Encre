@@ -12,7 +12,7 @@
 * [x] README.md
 * [x] LICENSE
 * [x] ROLES.md – définir les rôles de base
-* [ ] RULES.md – écrire les règles orales (nuit/jour)
+* [x] RULES.md – écrire les règles orales (nuit/jour)
 * [ ] CARTE.pdf - créer les cartes de jeu
 
 ## 📜 Règles du jeu (RULES.md)

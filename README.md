@@ -16,14 +16,16 @@
 ## 🕯 Présentation
 
 **Sang d’Encre** est un jeu d’ambiance, de déduction et de bluff, se déroulant dans le village brumeux d’**Encreval**.  
-Une lutte s’y joue entre les **Villageois**, les **Ombres**, et de mystérieux **Égarés** aux objectifs troubles.
+Une lutte s’y joue entre les **Villageois**, les **Ombres** et de mystérieux **Égarés** aux objectifs troubles.
 
 ---
 
 ## 📜 Fonctionnement
 
-- **Nuit** : les rôles agissent dans l’ombre (assassinats, enquêtes…)
-- **Jour** : discussions, accusations, vote d’un suspect
+- **Nuit** : les rôles agissent dans l’ombre — assassinats, révélations, manipulations.
+Chacun avance masqué, à l’abri des regards.
+- **Jour** : le village s’éveille, les soupçons grandissent.
+Discussions, accusations… jusqu’au vote du destin.
 
 ---
 
@@ -39,9 +41,9 @@ Une lutte s’y joue entre les **Villageois**, les **Ombres**, et de mystérieux
 ## 🧩 Contenu
 
 - [`ROLES.md`](ROLES.md) : tous les rôles jouables (de 6 à 19 joueurs)
-- [`RULES.md`](RULES.md) : règles orales simples (MJ + Joueurs)
+- [`RULES.md`](RULES.md) : règles du jeu (MJ + Joueurs)
 - [`TODO.md`](TODO.md) : idées à implémenter, extensions futures
-- Fichiers pour application ou interface à venir (open source)
+- [`Docs`](https://github.com/Noctyra-dev/Sang-d-Encre/tree/main/docs) : fichiers pour la documentation à venir
 
 ---
 
@@ -57,7 +59,7 @@ Une lutte s’y joue entre les **Villageois**, les **Ombres**, et de mystérieux
 
 ## ⚙️ Application (bientôt)
 
-Une interface web (open source) sera disponible avec :
+Une interface web (open-source) sera disponible avec :
 
 - un moteur de distribution de rôles
 - un assistant MJ (séquences, votes, pouvoirs)
@@ -79,7 +81,7 @@ Vous pouvez :
 - Signaler des bugs ou des erreurs
 - Proposer de nouveaux rôles
 - Contribuer à l’interface (web)
-- Illustrer l’univers d’Encreval (logos, cartes…)
+- Illustrer l’univers d’Encreval (logos, cartes de jeu…)
 
 ---
 
@@ -88,13 +90,18 @@ Vous pouvez :
 Je suis **Noctyra**, alias Eléa, créatrice de **Sang d’Encre**.  
 J’ai imaginé ce jeu pour mêler ce que j’aime : les histoires troubles, les jeux de rôle, et les soupçons qui tissent des drames.
 
-🖋 *Sang d’Encre* est né d’un simple village dans la brume, **Encreval**, et s’est peu à peu étendu en un univers où chacun peut douter, manipuler, survivre… ou tomber dans l’oubli.
+🖋 *Sang d’Encre* est né d’un simple village dans la brume, **Encreval**... et s’est peu à peu étendu en un univers où chacun peut douter, manipuler, survivre… ou tomber dans l’oubli.
 
 > *« J’écris des règles comme on écrit une lettre qu’on ne signera jamais…  
 > …en espérant qu’elle parvienne à quelqu’un. »*
 
 Merci de suivre ce projet, d’y jouer, de le faire vivre.
 
->Retrouvez-moi sur [GitHub](https://github.com/Noctyra-dev) ou [Discord](https://discord.com/users/1400836934829473853) pour suivre le développement, proposer des idées, ou contribuer à l’aventure.
+> Retrouvez-moi sur GitHub ou Discord pour suivre le développement, proposer des idées, ou contribuer à l’aventure.
+
+[![GitHub](https://img.shields.io/badge/GitHub-Noctyra--dev-000?logo=github&logoColor=white&style=flat-square)](https://github.com/Noctyra-dev)
+[![Discord](https://img.shields.io/badge/Discord-Noctyra--dev-5865F2?logo=discord&logoColor=white&style=flat-square)](https://discord.com/users/1400836934829473853)
+
+
 
 ---

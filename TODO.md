@@ -18,10 +18,10 @@
 
 ## 📜 Règles du jeu (RULES.md)
 
-* [ ] Structure de base (nuit, jour, votes, élimination)
-* [ ] Déroulement d’une nuit (rôles appelés, actions)
-* [ ] Déroulement d’un jour (discussions, vote, mort)
-* [ ] Conditions de victoire (Village, Ombre, Neutres)
+* [x] Structure de base (nuit, jour, votes, élimination)
+* [x] Déroulement d’une nuit (rôles appelés, actions)
+* [x] Déroulement d’un jour (discussions, vote, mort)
+* [x] Conditions de victoire (Village, Ombre, Neutres)
 
 ## 🎭 Rôles (ROLES.md)
 
